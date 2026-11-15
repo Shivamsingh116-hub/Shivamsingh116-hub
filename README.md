@@ -1,35 +1,41 @@
-# 👋 Hi, I’m Shivam Singh  
+# Hi, I'm Shivam Singh
 
-### 👀 About Me  
-- 🚀 Passionate about developing websites with extraordinary features  
-- 💻 Exploring and mastering full-stack development  
-- 🤖 Learning machine learning alongside development  
+I'm a Full Stack Developer from Haryana, India. I build software solutions and
+business platforms with the MERN stack and PHP/MySQL, and I like working on the
+whole product, from the first requirement call to the production release.
 
-### 🌱 What I'm Currently Learning  
-- Advanced Machine Learning concepts  
-- Full-stack development with React, Next.js, and Node.js  
-- CI/CD, Docker, and cloud platforms like AWS & Azure  
+I currently work at [Ainosof Technology](https://www.ainosof.com/), where I've
+delivered 14+ projects, including an accounting platform for an international
+client, a college website with a custom CMS, and management systems for taxi
+fleets and garages.
 
-### 💞️ Looking to Collaborate  
-- Open-source projects on GitHub  
-- AI/ML-based web applications  
-- Full-stack projects with modern technologies  
+## Find me online
 
-### 🌐 Visit My Portfolio  
-Check out my work and projects on my portfolio website:  
-[🌍 Shivam Singh's Portfolio]:[https://shivamsingh116.netlify.app]
+- Portfolio: [shivamsingh116.vercel.app](https://shivamsingh116.vercel.app/)
+- LinkedIn: [linkedin.com/in/shivamsingh116](https://www.linkedin.com/in/shivamsingh116)
+- Resume: [Download the PDF](https://shivamsingh116.vercel.app/Shivam_Singh_Full_Stack_Developer_Resume.pdf)
+- Email: solankishivam116@gmail.com
 
-### 📫 How to Reach Me  
-- 📧 Email: [shivamsinghk116@gmail.com]  
-- 🔗 LinkedIn: [www.linkedin.com/in/shivam-singh-3930492b4]   
+## What I work with
 
-### 😄 Pronouns  
-He/Him  
+- **Languages:** JavaScript (ES6+), TypeScript, PHP, Python, SQL
+- **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, REST APIs, JWT, RBAC
+- **Databases and tools:** MongoDB, MySQL, Redis, Git, GitHub Actions, Postman
+- **Deployment:** Vercel, Render, Netlify, cPanel
 
-### ⚡ Fun Fact  
-I love experimenting with new technologies and building unique web applications!  
+## A few things I've built
 
-<!---
-Shivamsingh116-hub/Shivamsingh116-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- A multi-site construction accounting platform with double-entry bookkeeping
+  and automated financial reports, built for an international client.
+- Business management systems for taxi fleets, garages and EMI tracking.
+- An AI resume screener that scores resumes against job descriptions, using a
+  Python NLP service behind a Node.js backend.
+- A social media application with React, Node.js and MongoDB, including an
+  AI chatbot.
+
+## Currently
+
+I'm exploring modern AI tools and how to bring them into the products I build.
+I'm open to full-time roles, freelance projects and collaborations, so feel free
+to get in touch.

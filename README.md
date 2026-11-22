@@ -11,7 +11,7 @@ fleets and garages.
 
 ## Find me online
 
-- Portfolio: [shivamsingh116.vercel.app](https://shivamsingh116.netlify.app/)
+- Portfolio: [shivamsingh116.netlify.app](https://shivamsingh116.netlify.app/)
 - LinkedIn: [linkedin.com/in/shivamsingh116](https://www.linkedin.com/in/shivamsingh116)
 - Resume: [Download the PDF](https://shivamsingh116.vercel.app/Shivam_Singh_Full_Stack_Developer_Resume.pdf)
 - Email: solankishivam116@gmail.com
